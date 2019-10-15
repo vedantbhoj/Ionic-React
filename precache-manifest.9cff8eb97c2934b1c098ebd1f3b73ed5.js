@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bedae81407e212c9cee3fa084d43845c",
+    "revision": "4f943f0e92a655b94bbfb43643298bf2",
     "url": "/Ionic-React/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ionic-React/static/css/10.d63a2107.chunk.css"
   },
   {
-    "revision": "72ac77b27f68c2138c68",
+    "revision": "c14ce0f9b09035405293",
     "url": "/Ionic-React/static/css/main.19fb864a.chunk.css"
   },
   {
@@ -404,8 +404,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ionic-React/static/js/99.c115a9c4.chunk.js"
   },
   {
-    "revision": "72ac77b27f68c2138c68",
-    "url": "/Ionic-React/static/js/main.e0590cb4.chunk.js"
+    "revision": "c14ce0f9b09035405293",
+    "url": "/Ionic-React/static/js/main.15df1067.chunk.js"
   },
   {
     "revision": "2e032cb111cfaa786d35",
